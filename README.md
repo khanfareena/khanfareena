@@ -1,6 +1,6 @@
 ### Hi! 👋 ☕️ 🌱
 
-👩🏽‍💻 third-year CS student @ University of Cincinnati 🐾   | seeking opportunities to leverage my skills for the benefit of others | khansfareena@gmail.com | [Linkedin](https://www.linkedin.com/in/fareena-khan/)
+👩🏽‍💻 third-year CS student @ University of Cincinnati | khansfareena@gmail.com | [Linkedin](https://www.linkedin.com/in/fareena-khan/)
 
 <!--
 **khanfareena/khanfareena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
