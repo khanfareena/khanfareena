@@ -1,6 +1,6 @@
 ### Hi! 👋🏽 ☕️ 🌱👩🏽‍💻
 
-third-year CS student @ UC | khansfareena@gmail.com
+third-year CS student @ UC
 
 <!--
 **khanfareena/khanfareena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
